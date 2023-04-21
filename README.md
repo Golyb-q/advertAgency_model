@@ -32,7 +32,7 @@
 ![](https://oionline.com/wp-content/uploads/2018/03/not_found-300x225.png)
 
 ### Построить диаграмму состояний.
-Диаграмма классов:\
+Диаграмма состояний:\
 ![](https://oionline.com/wp-content/uploads/2018/03/not_found-300x225.png)
 
 ### Реализовать классы на языке программирования.
